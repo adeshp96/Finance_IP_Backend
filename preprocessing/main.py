@@ -64,7 +64,15 @@ class MutualFund:
 		self.alpha = None
 		self.std =  None
 		self.mean = None
+		self.normalizer = None
 	def add_entry(self, nav, repurchase_price, sale_price, date):
+		if self.normalizer is None:
+			self.normalizer = float(nav)
+			if self.normalizer == 0:
+				self.normalizer = 1e-100
+			nav = 1
+		else:
+			nav = float(nav) / self.normalizer
 		new_entry = MFEntry(nav, repurchase_price, sale_price, date)
 		self.entries.append(new_entry)
 	def __str__(self):
@@ -122,7 +130,7 @@ def get_betas():
 	#key is mf code value is beta
 	betas = {}
 	for nifty_date in nifties:
-		nifty_simple_dict[nifty_date] = float(nifties[nifty_date].close)
+		nifty_simple_dict[nifty_date] = float(nifties[nifty_date].close)/float(nifties[first_nifty_date].close)
 	nifty_variance = np.var(nifty_simple_dict.values())
 	print "Nifty variance", nifty_variance
 	for mf_code in mutual_funds:
@@ -277,18 +285,18 @@ with open(details_file, "w") as fp:
 
 
 
-# correlation_dict = {}
-# counter = 0
-# for mf_code1 in mutual_funds:
-# 	counter += 1
-# 	if counter % 10 == 0:
-# 		print counter
-# 	for mf_code2 in mutual_funds:
-# 		if (mf_code2, mf_code1) in correlation_dict:
-# 			continue
-# 		value = get_correlation(mf_code1, mf_code2)
-# 		if value is not None:
-# 			correlation_dict[(mf_code1, mf_code2)] = value
-# with open(correlation_file, 'w') as fp:
-# 	for e in correlation_dict:
-# 		fp.write(e[0] + ' ' + e[1] + ' ' + str('{:f}'.format(correlation_dict[e])) + '\n')
+correlation_dict = {}
+counter = 0
+for mf_code1 in mutual_funds:
+	counter += 1
+	if counter % 10 == 0:
+		print counter
+	for mf_code2 in mutual_funds:
+		if (mf_code2, mf_code1) in correlation_dict:
+			continue
+		value = get_correlation(mf_code1, mf_code2)
+		if value is not None:
+			correlation_dict[(mf_code1, mf_code2)] = value
+with open(correlation_file, 'w') as fp:
+	for e in correlation_dict:
+		fp.write(e[0] + ' ' + e[1] + ' ' + str('{:f}'.format(correlation_dict[e])) + '\n')
