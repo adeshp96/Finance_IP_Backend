@@ -1,0 +1,1000 @@
+130465;BNP PARIBAS OVERNIGHT FUND - REGULAR PLAN - WEEKLY DIVIDEND OPTION
+131597;SBI DEBT FUND SERIES B - 1 (1111 DAYS) - REGULAR PLAN - DIVIDEND
+131596;SBI DEBT FUND SERIES B - 1 (1111 DAYS) - DIRECT PLAN - GROWTH
+131595;SBI DEBT FUND SERIES B - 1 (1111 DAYS) - REGULAR PLAN - GROWTH
+131594;SBI DEBT FUND SERIES B - 1 (1111 DAYS) - DIRECT PLAN - DIVIDEND
+135606;UTI MMF - Instn Fortnightly Div Option - Direct
+119861;Tata Money Market Fund- Direct Plan-Growth
+140353;Edelweiss Economic Resurgence Fund - Direct Plan - Growth Option
+134612;SBI DUAL ADVANTAGE FUND - SERIES IX - REGULAR PLAN - DIVIDEND
+103395;Sundaram Money Fund Regular fortnightly Div.Rein (Formerly Super Institutional Plan)
+103396;Sundaram Money Fund Regular monthly Div. (Formerly Super Institutional Plan)
+103392;Sundaram Money Fund Regular Daily Div. Reinvest (Formerly Super Institutional Plan)
+103393;Sundaram Money Fund Regular Qrtly Div. Reinvest (Formerly Super Institutional Plan)
+139988;UTI Capital Protection Oriented Scheme Series VIII-III (1281 Days) - Regular Plan - Dividend Option
+111549;Quantum Tax Saving Fund - Direct Plan Growth Option
+131476;JM Balanced Fund - Annual Dividend Option
+131477;JM Balanced Fund (Direct) - Annual Dividend Option
+118328;Sundaram Money Fund - Bonus Option
+139582;IDFC Cash Fund -Unclaimed Dividend Less than Three Years
+139583;IDFC Cash Fund -Unclaimed Dividend More than Three Years
+139584;IDFC Cash Fund -Unclaimed Redemption Less than Three Years
+139238;HSBC Cash Fund - Unclaimed Dividend Above 3 years
+139239;HSBC Cash Fund - Unclaimed Redemption Above 3 years
+139237;HSBC Cash Fund - Unclaimed Dividend Below 3 years
+139235;Canara Robeco Liquid -Unclaimed Redemption and Dividend Plan -Direct Growth Option
+119212;DSP BlackRock Micro Cap Fund - Direct Plan - Growth
+119213;DSP BlackRock Micro Cap Fund - Direct Plan - Dividend
+119218;DSP BlackRock Opportunities Fund - Direct Plan - Growth
+119862;Tata Money Market Fund- Direct Plan-Daily Dividend
+104485;Invesco India Liquid Fund - Weekly Dividend
+104484;Invesco India Liquid Fund - Daily Dividend
+104486;Invesco India Liquid Fund - Growth
+104481;DSP BlackRock Small and Mid Cap Fund - Regular Plan - Growth
+104482;DSP BlackRock Small and Mid Cap Fund - Regular Plan - Dividend
+104489;Invesco India Liquid Fund - Regular - Weekly Dividend
+104488;Invesco India Liquid Fund - Regular - Growth
+130322;SBI DEBT FUND SERIES A - 34 (367 DAYS) DIRECT PLAN - GROWTH
+120410;JM High Liquidity Fund (Direct) - Bonus Option - Bonus Option - Principal units
+120411;JM High Liquidity Fund (Direct) - Daily Dividend Option
+105280;SBI Premier Liquid Fund - REGULAR PLAN -Growth
+105281;SBI Premier Liquid Fund - REGULAR PLAN - Daily Dividend
+105282;SBI Premier Liquid Fund - REGULAR PLAN -Weekly Dividend
+105283;SBI Premier Liquid Fund - REGULAR PLAN - Fortnightly Dividend
+134613;SBI DUAL ADVANTAGE FUND - SERIES IX - DIRECT PLAN - DIVIDEND
+119805;SBI Premier Liquid Fund - DIRECT PLAN -Daily Dividend
+119804;SBI Premier Liquid Fund - DIRECT PLAN -Fortnightly Dividend
+115489;IDFC Cash Fund -Regular Plan-Periodic Dividend
+119020;DSP BlackRock Balanced Fund - Direct Plan - Dividend
+139791;SBI DEBT FUND SERIES B - 43(1100 DAYS)- DIRECT PLAN - GROWTH
+130238;SBI DEBT FUND SERIES A - 31 (367 DAYS) DIRECT PLAN - GROWTH
+101044;Franklin India Cash Management Account-Dividend Plan
+101048;Franklin India Cash Management Account-Growth Plan
+130237;SBI DEBT FUND SERIES A - 31 (367 DAYS) REGULAR PLAN - GROWTH
+135153;SBI DUAL ADVANTAGE FUND - SERIES X - REGULAR PLAN - GROWTH
+140197;Edelweiss  Liquid Fund - Direct Plan - Monthly Dividend Option
+140196;Edelweiss Liquid Fund - Direct Plan - Growth Option
+140194;Edelweiss Liquid Fund - Direct Plan - Bonus Option
+140193;Edelweiss Liquid Fund - Direct Plan - Daily Dividend Option
+135156;SBI DUAL ADVANTAGE FUND - SERIES X - REGULAR PLAN - DIVIDEND
+118307;Canara Robeco Liquid-Direct Plan-Daily Dividend Reinvestment
+118306;Canara Robeco Liquid-Direct Plan-Monthly Dividend
+118305;Canara Robeco Liquid- Direct Plan-Growth
+118304;Canara Robeco Liquid-Direct Plan-Dividend Payout
+135154;SBI DUAL ADVANTAGE FUND - SERIES X - DIRECT PLAN - GROWTH
+118308;Canara Robeco Liquid- Direct Plan-Weekly dividend
+135779;SBI DUAL ADVANTAGE FUND - SERIES XII - REGULAR PLAN - GROWTH
+135778;SBI DUAL ADVANTAGE FUND - SERIES XII - DIRECT PLAN - GROWTH
+135777;SBI DUAL ADVANATGE FUND - SERIES XII - REGULAR PLAN - DIVIDEND
+112213;Axis Liquid Fund - Monthly Dividend Option
+112212;Axis Liquid Fund - Weekly Dividend Option
+112211;Axis Liquid Fund - Daily Dividend Option
+112210;Axis Liquid Fund - Growth Option
+129391;SBI DEBT FUND SERIES A - 20 DIRECT PLAN - DIVIDEND
+108690;IDFC Cash Fund -Regular Plan-Growth
+108691;IDFC Cash Fund -Regular Plan-Weekly Dividend
+108692;IDFC Cash Fund -Regular Plan-Daily Dividend
+108693;IDFC Cash Fund -Regular Plan-Monthly Dividend
+138305;DHFL Pramerica Insta Cash Plus Fund - Direct Plan -  Annual Bonus Option
+138304;DHFL Pramerica INSTA CASH PLUS FUND-Monthly Bonus Option
+138306;DHFL Pramerica INSTA CASH PLUS FUND - Annual Bonus Option
+138301;DHFL Pramerica Insta Cash Plus Fund - Direct Plan - Weekly Dividend
+138300;DHFL Pramerica Insta Cash Plus Fund - Direct Plan - Quarterly Dividend
+108479;Quantum Nifty ETF
+134194;SBI DUAL ADVANTAGE FUND - SERIES VIII - REGULAR PLAN - DIVIDEND
+111971;BOI AXA Liquid Fund- Regular Plan- Daily Dividend
+130934;ICICI Prudential Liquid Plan - Direct Plan Bonus
+109255;BOI AXA Liquid Fund- Regular Plan- Weekly Dividend
+109254;BOI AXA Liquid Fund- Regular Plan- Growth
+100234;JM High Liquidity Fund-Growth
+100233;JM High Liquidity Fund - Weekly Dividend Option
+101185;LIC MF Liquid Fund-Regular Plan-Growth
+101184;LIC MF Liquid Fund-Regular Plan-Dividend
+119791;L&T Liquid Fund - Direct Plan -Daily Dividend
+119829;SBI MAGNUM INSTA CASH FUND -  DIRECT PLAN - WEEKLY DIVIDEND
+119828;SBI MAGNUM INSTA CASH FUND - DIRECT PLAN - GROWTH
+119799;SBI Premier Liquid Fund - DIRECT PLAN - Weekly Dividend
+100051;Aditya Birla Sun Life Cash Plus - Weekly Dividend
+101987;Tata Liquid Fund Reglar Plan - Monthly Dividend
+101986;Tata Liquid Fund-Regular Plan  -  Daily Dividend
+101984;Tata Liquid High Investment Plan - Daily
+101983;Tata Liquid Retail Investment Plan - Fortnightly
+101982;Tata Liquid Retail Investment PLan - Daily
+128166;SBI DEBT FUND SERIES - 366 DAYS - 54- DIRECT PLAN - GROWTH
+128167;SBI DEBT FUND SERIES - 366 DAYS - 54 - REGULAR PLAN - DIVIDEND
+128168;SBI DEBT FUND SERIES - 366 DAYS - 54 - REGULAR PLAN - GROWTH
+103394;Sundaram Money Fund Regular weekly Dividend. Rein (Formerly Super Institutional Plan)
+103397;Sundaram Money Fund Regular Growth (Formerly Super Institutional Plan)
+127515;SBI DEBT FUND SERIES A - 5 REGULAR PLAN - GROWTH
+127516;SBI DEBT FUND SERIES A - 5 DIRECT - GROWTH
+120209;ICICI Prudential Money Market Fund Option - Direct Plan -  Daily Dividend
+118363;IDFC Cash Fund -Direct Plan -Periodic Dividend
+118365;IDFC Cash Fund -Direct Plan -Monthly Dividend
+118364;IDFC Cash Fund -Direct Plan -Growth
+118367;IDFC Cash Fund -Direct Plan -Weekly Dividend
+118366;IDFC Cash Fund -Direct Plan -Daily Dividend
+128390;SBI DEBT FUND SERIES A - 11 REGULAR PLAN - GROWTH
+139890;Franklin India TREASURY MANAGEMENT ACCOUNT - Unclaimed Dividend Plan - Growth
+100842;Reliance Liquid Fund-Treasury Plan-Retail Option - Daily Dividend Reinvestmetn Option
+111915;Taurus Liquid Fund - Regular Plan - SI Growth Option
+118695;Reliance Liquid Fund - Treasury Plan - Direct Plan Daily Dividend Reinvestment Option
+118696;Reliance Liquid Fund - Treasury Plan - Direct Plan Monthly Dividend Plan
+118698;Reliance Liquid Fund - Treasury Plan - Direct Plan Quarterly Dividend Plan
+136361;SBI DUAL ADVANTAGE FUND SERIES XIV- REGULAR PLAN - DIVIDEND PAYOUT
+136360;SBI DUAL ADVANTAGE FUND SERIES XIV- REGULAR PLAN - GROWTH
+100219;JM Equity Fund-Growth
+119800;SBI Premier Liquid Fund - DIRECT PLAN -Growth
+112646;Essel Liquid Fund-Regular Plan-Weekly Dividend Option
+112647;Essel Liquid Fund-Regular Plan- Monthly Dividend Option
+128671;SBI DEBT FUND SERIES A - 13 REGULAR PLAN - GROWTH
+139122;SBI Dual Advantage Fund - Series XV- Regular Plan - Dividend Payout
+133854;SBI DEBT FUND SERIES B - 7 (38 MONTHS) - REGUALR PLAN - DIVIDEND
+133856;SBI DEBT FUND SERIES B - 7 (38 MONTHS) - DIRECT PLAN - GROWTH
+134317;SBI DEBT FUND SERIES B - 9 (1105 DAYS) - REGULAR PLAN - GROWTH
+118345;IDBI Liquid Fund Growth Direct
+139258;JM High Liquidity Fund Unclaimed Dividend (Direct) Growth Plan
+139259;JM High Liquidity Fund Unclaimed Redemption IEF (Direct) Growth Plan
+139257;JM High Liquidity Fund Unclaimed Redemption (Direct) Growth Plan
+120900;SBI DEBT FUND SERIES - 60 MONTHS - 3 - DIRECT PLAN - GROWTH
+120901;SBI DEBT FUND SERIES - 60 MONTHS - 3 - DIRECT PLAN - DIVIDEND
+118507;Franklin India Cash Management Account - Direct - Dividend
+118508;Franklin India Cash Management Account - Direct - Growth
+136431;SBI DEBT FUND SERIES B - 33 (1131 DAYS) - DIRECT PLAN - DIVIDEND PAYOUT
+126210;SBI DEBT FUND SERIES - 16 MONTHS - 2 - REGULAR PLAN - DIVIDEND
+100896;Principal Cash Management Fund - Weekly Dividend Option
+100897;Principal Cash Management Fund - Monthly Dividend Option
+100895;Principal Cash Management Fund - Daily Dividend
+100898;Principal Cash Management Fund -Growth Option
+130026;SBI DEBT FUND SERIES A - 28 (367 DAYS) - DIRECT PLAN - GROWTH
+140347;Edelweiss Equity Savings Advantage Fund - Direct Plan - Growth Option
+140348;Edelweiss Equity Savings Advantage Fund - Direct Plan - Dividend Option
+139585;IDFC Cash Fund -Unclaimed Redemption More than Three Years
+115399;Union Liquid Fund - Fortnightly Dividend Option
+115398;Union Liquid Fund - Growth Option
+118715;Reliance Liquidity Fund - Direct Plan Growth Plan - Bonus Option
+118716;Reliance Liquidity Fund - Direct Plan Quarterly Dividend Plan
+118717;Reliance Liquidity Fund - Direct Plan Weekly Dividend Reinvestment Option
+118718;Reliance Liquidity Fund - Direct Plan Daily Dividend Reinvestment Option
+118719;Reliance Liquidity Fund - Direct Plan Growth Plan - Growth Option
+119570;Aditya Birla Sun Life Cash Plus - Weekly Dividend - Direct Plan
+120794;UTI - Liquid Fund-Cash Plan-INST Mthl - Direct
+120793;UTI MMF - Instn Weekly Option- Direct
+120249;LIC MF Liquid Fund-Direct Plan-Growth
+120248;LIC MF Liquid Fund-Direct Plan-Dividend
+102672;Tata Money Market Fund -Regular Plan  -  Growth
+139794;SBI Dual Advantage Fund - Series XVII - Direct Plan - growth
+139531;SBI Dual Advantage Fund - Series XVI - Direct Plan - Dividend Payout
+115994;Indiabulls Liquid Fund - Fortnightly Dividend Option
+119219;DSP BlackRock Opportunities Fund - Direct Plan - Dividend
+134320;SBI DEBT FUND SERIES B - 9 (1105 DAYS) - DIRECT PLAN - GROWTH
+120490;JM Equity Fund (Direct) - Growth Option
+101892;Kotak Floater Short Term-Regular Plan-Monthly Dividend Option
+118066;L&T  Cash Fund  - Regular Plan - Monthly Dividend
+118065;L&T Cash Fund - Regular Plan - Weekly Dividend
+134811;SBI DEBT FUND SERIES B - 20 (1100 DAYS) - REGULAR PLAN - DIVIDEND
+134810;SBI DEBT FUND SERIES B - 20 (1100 DAYS) - DIRECT PLAN - DIVIDEND
+129120;SBI DEBT FUND SERIES A - 17 DIRECT PLAN - DIVIDEND
+128323;SBI DEBT FUND SERIES A - 9 REGULAR PLAN - GROWTH
+129871;SBI DEBT FUND SERIES A - 26 (682 DAYS) REGULAR PLAN - GROWTH
+103225;Escorts Liquid Plan-Growth Option
+103226;Escorts Liquid Plan-Daily Dividend Option
+103227;Escorts Liquid Plan-Weekly Dividend Option
+103228;Escorts Liquid Plan-Monthly Dividend Option
+140117;Aditya Birla Sun Life Resurgent India Fund - Series 2 - Regular Plan-Growth
+135155;SBI DUAL ADVANTAGE FUND - SERIES X - DIRECT PLAN - DIVIDEND
+139562;BNP PARIBAS OVERNIGHT FUND SPECIAL UNCLAIMED DIV 36A -- GROWTH OPTION
+139563;BNP PARIBAS OVERNIGHT FUND SPECIAL UNCLAIMED RED 36B -- GROWTH OPTION
+139560;BNP PARIBAS OVERNIGHT FUND SPECIAL UNCLAIMED RED 36A-- GROWTH OPTION
+139561;BNP PARIBAS OVERNIGHT FUND SPECIAL UNCLAIMED DIV 36B -- GROWTH OPTION
+139566;SBI DEBT FUNDS SERIES B - 42 (1100 DAYS) - REGULAR PLAN - GROWTH
+139567;SBI DEBT FUNDS SERIES B - 42 (1100 DAYS) - DIRECT PLAN - GROWTH
+139564;SBI DEBT FUNDS SERIES B - 42 (1100 DAYS) - REGULAR PLAN - DIVIDEND PAYOUT
+139565;SBI DEBT FUNDS SERIES B - 42 (1100 DAYS) - DIRECT PLAN - DIVIDEND PAYOUT
+120262;Sahara Liquid Fund-Fixed Pricing - Direct -Growth option
+120266;Sahara Liquid Fund-Fixed Pricing -Direct - Monthly Dividend Option
+120265;Sahara Liquid Fund-Fixed Pricing - Direct - Weekly Dividend Option
+139386;Essel Liquid Fund-Unclaimed Redemption and Dividend Plan less than 3 years
+139387;Invesco India Liquid Fund - Unclaimed Redemption Plan - Below 3 years
+139389;Invesco India Liquid Fund - Unclaimed Dividend Plan - Below 3 Years
+140598;SBI DUAL ADVANTAGE FUND - SERIES XIX - REGULAR PLAN - DIVIDEND PAYOUT
+112014;Aditya Birla Sun Life Cash Plus- Discipline Advantage Plan
+130022;SBI Dual Advantage Fund - Series III - Regular Plan - Dividend
+133403;JM Balanced Fund - Half Yearly Bonus Option - Principal Units
+133402;JM Balanced Fund (Direct) - Half Yearly Dividend Option
+133401;JM Balanced Fund (Direct) - Bonus Option - Principal Units
+133400;JM Balanced Fund - Bonus Option - Principal Units
+133407;JM Balanced Fund - Annual Bonus Option
+133406;JM Balanced Fund (Direct) - Quarterly Dividend Option
+133405;JM Balanced Fund - Quarterly Dividend Option
+133404;JM Balanced Fund - Monthly Dividend Option
+130023;SBI Dual Advantage Fund - Series III - Direct Plan - Dividend
+133409;JM Balanced Fund (Direct) - Half Yearly Bonus Option - Principal Units
+133408;JM Balanced Fund - Half Yearly Dividend Option
+103052;Reliance Liquidity Fund-Dividend Plan-Monthly Dividend Plan
+103051;Reliance Liquidity Fund-Dividend Plan-Weekly Dividend Reinvesment Option
+103050;Reliance Liquidity Fund-Dividend Plan-Daily Dividend Reinvestment Option
+129664;SBI DEBT FUND SERIES A - 23 REGULAR PLAN - DIVIDEND
+129665;SBI DEBT FUND SERIES A - 23 REGULAR PLAN - GROWTH
+129660;SBI DEBT FUND SERIES A - 22 REGULAR PLAN - GROWTH
+129661;SBI DEBT FUND SERIES A - 22 DIRECT PLAN - GROWTH
+129663;SBI DEBT FUND SERIES A - 23 DIRECT PLAN - GROWTH
+136475;SBI DEBT FUND SERIES B - 34 (1131 DAYS) - REGULAR PLAN - DIVIDEND PAYOUT
+136474;SBI DEBT FUND SERIES B - 34 (1131 DAYS) - REGULAR PLAN - GROWTH
+136477;SBI DEBT FUND SERIES B - 34 (1131 DAYS) - DIRECT PLAN - DIVIDEND PAYOUT
+136476;SBI DEBT FUND SERIES B - 34 (1131 DAYS) - DIRECT PLAN - GROWTH
+131466;SBI DEBT FUND SERIES A - 44 (1111 DAYS) - REGULAR PLAN - GROWTH
+119089;HDFC Liquid Fund -Direct Plan - Daily Dividend Option
+119088;HDFC Liquid Fund -Direct Plan - Weekly Dividend Option
+140390;SUNDARAM SELECT MICRO CAP SERIES XI - REGULAR PLAN - DIVIDEND
+140393;SBI Dual Advantage Fund - Series XVIII - Direct Plan - Dividend Payout
+140392;SUNDARAM SELECT MICRO CAP SERIES XI - DIRECT PLAN - DIVIDEND
+113096;IDBI Liquid Fund-Growth
+136042;SBI DUAL ADVANTAGE FUND - SERIES XIII - REGULAR PLAN - GROWTH
+136043;SBI DUAL ADVANTAGE FUND - SERIES XIII - DIRECT PLAN - GROWTH
+136044;SBI DUAL ADVANTAGE FUND - SERIES XIII - DIRECT PLAN - DIVIDEND
+136045;SBI DUAL ADVANTAGE FUND - SERIES XIII - REGULAR PLAN - DIVIDEND
+140171;UTI - Dual Advantage Fixed Term Series IV-I (1279 Days) - Regular Plan - Dividend Option
+140170;UTI - Dual Advantage Fixed Term Series IV-I (1279 Days) - Direct Plan - Growth Option
+140173;Edelweiss Equity Opportunities Fund - Regular Plan - Dividend Option
+140172;Edelweiss Equity Opportunities Fund - Regular Plan - Growth Option
+140175;Edelweiss Equity Opportunities Fund - Direct Plan - Growth Option
+140174;Edelweiss Equity Opportunities Fund - Direct Plan - Dividend Option
+140177;Edelweiss Liquid Fund - Retail Plan - Daily Dividend Option
+140176;Edelweiss Liquid Fund - Retail Plan - Growth Option
+140178;Edelweiss Liquid Fund - Retail Plan - Weekly Dividend Option
+132992;SBI DEBT FUND SERIES B - 3 (1111 DAYS) - REGULAR PLAN - GROWTH
+132993;SBI DEBT FUND SERIES B - 3 (1111 DAYS) - REGULAR PLAN - DIVIDEND
+139541;Mahindra Liquid Fund - Regular Plan - Weekly Dividend Reinvestment
+134193;SBI DUAL ADVANTAGE FUND - SERIES VIII - DIRECT PLAN - DIVIDEND
+118909;HSBC Cash Fund-Institutional Plan - Daily Dividend
+118908;HSBC Cash Fund - Regular - Weekly Dividend
+118904;HSBC Cash Fund - Weekly Dividend
+118907;HSBC Cash Fund-Regular-Growth
+118906;HSBC Cash Fund - Regular- Dividend
+118901;HSBC Cash Fund - Daily Dividend
+118903;HSBC Cash Fund - Monthly Dividend
+118902;HSBC Cash Fund -  Growth
+140180;Edelweiss Liquid Fund - Retail Plan - Monthly Dividend Option
+140181;Edelweiss Liquid Fund - Regular Plan - Daily Dividend Option
+140188;Edelweiss Liquid Fund - Regular Plan - Annual Dividend Option
+140031;ICICI Prudential Value Fund - Series 9 - Direct Plan - Cumulative Option
+119692;Sundaram Money Fund - Direct Plan - Fortnightly Dividend Reinvestment Option
+119690;Sundaram Money Fund - Direct Plan - Bonus Option
+119691;Sundaram Money Fund - Direct Plan - Weekly Dividend Reinvestment Option
+140066;UTI Capital Protection Oriented Scheme Series VIII-IV (1996 Days) - Regular Plan - Growth Option
+140094;Reliance ETF Shariah BeES
+135102;SBI DEBT FUND SERIES B - 23 (1100 DAYS) - REGULAR PLAN - DIVIDEND
+135104;SBI DEBT FUND SERIES B - 23 (1100 DAYS) - DIRECT PLAN - GROWTH
+135105;SBI DEBT FUND SERIES B - 23 (1100 DAYS) - REGULAR PLAN - GROWTH
+138284;DHFL Pramerica INSTA CASH PLUS FUND - Regular Plan BONUS OPTION
+138288;DHFL Pramerica Insta Cash Plus Fund -Growth
+138289;DHFL Pramerica Insta Cash Plus Fund - Weekly Dividend
+102153;Tata Money Market Fund Regular (Growth)
+102152;Tata Money Market Fund Regular (Bonus / Dividend)
+134769;SBI DEBT FUND SERIES B - 19 (1100 Days) - REGULAR PLAN - DIVIDEND
+134768;SBI DEBT FUND SERIES B - 19 (1100 Days) - REGULAR PLAN - GROWTH
+140391;SUNDARAM SELECT MICRO CAP SERIES XI - DIRECT PLAN - GROWTH
+140395;SBI Dual Advantage Fund - Series XVIII - Regular Plan - Dividend Payout
+140394;SBI Dual Advantage Fund - Series XVIII - Regular Plan - Growth
+140396;SBI Dual Advantage Fund - Series XVIII - Direct Plan - Growth
+131276;SBI DEBT FUND SERIES A - 42 (1111 DAYS) - DIRECT PLAN - GROWTH
+100843;Reliance Liquid Fund-Treasury Plan-Retail Plan Monthly Dividend Plan
+131274;SBI DEBT FUND SERIES A - 42 (1111 DAYS) - REGULAR PLAN - DIVIDEND
+100844;Reliance Liquid Fund-Treasury Plan-Retail Plan Quarterly Dividend Plan
+139838;UTI - Liquid Fund - Cash Plan - Instn Fortnightly Div Option
+135379;SBI DUAL ADVANTAGE FUND - SERIES XI - REGULAR PLAN - DIVIDEND
+135378;SBI DUAL ADVANTAGE FUND - SERIES XI - REGULAR PLAN - GROWTH
+135377;SBI DUAL ADVANTAGE FUND - SERIES XI - DIRECT PLAN - DIVIDEND
+135376;SBI DUAL ADVANTAGE FUND - SERIES XI - DIRECT PLAN - GROWTH
+135371;UTI MMF - Instn Fortnightly Div Option
+102434;DSP BlackRock India T.I.G.E.R. Fund - Regular Plan -  Growth
+102435;DSP BlackRock India T.I.G.E.R. Fund - Regular Plan - Dividend
+134972;UTI MMF - Annual Dividend Option
+134973;UTI MMF - Annual Dividend Option - Direct
+135507;SBI EQUITY OPPORTUNITIES FUND -  SERIES IV - REGULAR PLAN - GROWTH
+135707;SBI DEBT FUND SERIES B - 27 (1100 DAYS) - REGULAR PLAN - DIVIDEND
+100548;Franklin India Treasury Management Account-Super Institutional Plan - Weekly Dividend
+100546;Franklin India Treasury Management Account-Super Institutional Plan - Growth
+100547;Franklin India Treasury Management Account-Super Institutional Plan - Daily Dividend
+100541;Franklin India Treasury Management Account-Regular Plan - Daily Dividend
+131482;DSP BlackRock 3 Years Close Ended Equity Fund - Regular Plan - Growth (Maturity Date 4-Jan-2021)
+131485;DSP BlackRock 3 Years Close Ended Equity Fund - Regular Plan - Dividend (Maturity Date 4-Jan-2021)
+120388;Axis Liquid Fund - Direct Plan - Daily Dividend Option
+120389;Axis Liquid Fund - Direct Plan - Growth Option
+132991;SBI DEBT FUND SERIES B - 3 (1111 DAYS) - DIRECT PLAN - DIVIDEND
+101635;DSP BlackRock Top 100 Equity Fund - Regular Plan - Growth
+135506;SBI EQUITY OPPORTUNITIES FUND - SERIES IV - DIRECT PLAN - GROWTH
+101636;DSP BlackRock Top 100 Equity Fund - Regular Plan -  Dividend
+135167;JM Arbitrage Advantage Fund - Annual Dividend Option
+135168;JM Arbitrage Advantage Fund - Monthly Dividend Option
+135169;JM Arbitrage Advantage Fund - Quarterly Dividend Option
+101858;Tata Liquid Retail Investment Plan - Growth
+135785;SBI DEBT FUND SERIES B - 28 (1100 DAYS) - REGULAR PLAN - DIVIDEND
+135780;SBI DUAL ADVANTAGE FUND - SERIES XII - DIRECT PLAN - DIVIDEND
+135788;SBI DEBT FUND SERIES B - 28 (1100 DAYS) - DIRECT PLAN - DIVIDEND
+140119;Aditya Birla Sun Life Resurgent India Fund - Series 2 - Direct Plan-Growth
+132922;SBI DUAL ADVANTAGE FUND - SERIES V - REGULAR PLAN - DIVIDEND
+132921;SBI DUAL ADVANTAGE FUND - SERIES V - REGULAR PLAN - GROWTH
+132920;SBI DUAL ADVANTAGE FUND - SERIES V - DIRECT PLAN - DIVIDEND
+140118;Aditya Birla Sun Life Resurgent India Fund - Series 2 - Regular Plan-Dividend Payout
+103820;DSP BlackRock Opportunities Fund-Regular Plan - Dividend
+100868;HDFC Liquid Fund-GROWTH
+134958;JM Equity Fund (Direct) - Annual Dividend Option
+134959;JM Equity Fund - Monthly Dividend Option
+134954;JM Equity Fund - Quarterly Dividend Option
+134955;JM Equity Fund - Half Yearly Dividend Option
+134956;JM Equity Fund (Direct) - Monthly Dividend Option
+134957;JM Equity Fund (Direct) - Half Yearly Dividend Option
+129394;SBI DEBT FUND SERIES A - 20 REGULAR PLAN - GROWTH
+129392;SBI DEBT FUND SERIES A - 20 DIRECT PLAN - GROWTH
+112458;L&T Liquid Fund - Regular Plan - Weekly Dividend
+119301;Union Liquid Fund - Direct Plan - Daily Dividend Option
+119302;Union Liquid Fund - Direct Plan - Monthly Dividend Option
+119303;Union Liquid Fund - Direct Plan - Growth Option
+119304;Union Liquid Fund - Direct Plan - Weekly Dividend Option
+119305;Union Liquid Fund - Direct Plan - Fortnightly Dividend Option
+129972;SBI DEBT FUND SERIES A - 27 (366 DAYS) DIRECT PLAN - GROWTH
+129974;SBI DEBT FUND SERIES A - 27 (366 DAYS) REGULAR PLAN - GROWTH
+103349;DSP BlackRock Liquidity Fund- Regular Plan - Daily Dividend
+103348;DSP BlackRock Liquidity Fund - Regular Plan - Weekly Dividend
+103347;DSP BlackRock Liquidity Fund - Regular Plan - Growth
+103343;ICICI Prudential Liquid -Daily Dividend
+103342;ICICI Prudential Liquid - Weekly Dividend
+103341;ICICI Prudential Liquid Plan -Monthly Dividend
+103340;ICICI Prudential Liquid -Growth
+100838;Reliance Liquid Fund-Treasury Plan-Retail Plan - Weekly Dividend Reinvestment Option
+100833;Kotak Liquid Regular Plan Daily Dividend
+100834;Kotak Liquid Regular Plan Weekly Dividend
+100835;Kotak Liquid Regular Plan Growth
+100837;Reliance Liquid Fund-Treasury Plan-Retail Option - Growth Plan
+140504;UTI - Liquid Fund - Cash Plan - Instn Half Yearly Div Option - Direct Plan
+139120;SBI Dual Advantage Fund - Series XV- Direct Plan -Dividend Payout
+112714;Axis Liquid Fund - Retail Plan - Monthly Dividend Option
+112715;Axis Liquid Fund - Retail Plan - Weekly Dividend Option
+112712;Axis Liquid Fund - Retail Plan - Daily Dividend Option
+112713;Axis Liquid Fund - Retail Plan - Growth Option
+129708;SBI DEBT FUND SERIES A - 24 DIRECT PLAN - GROWTH
+136570;DSP BlackRock Equity Savings Fund - Direct Plan - Quarterly Dividend
+120040;HSBC Cash Fund - Weekly Dividend Direct
+134623;SBI Debt Fund Series B - 16 (1100 Days) - Regular Plan - Growth
+120772;UTI MMF-Instn Plan-Daily Dividend-Direct
+120777;UTI-  Liquid Fund-Cash Plan-INST Wkly-Direct
+119568;Aditya Birla Sun Life Cash Plus - Growth - Direct Plan
+119569;Aditya Birla Sun Life Cash Plus - Daily Dividend - Direct Plan
+134626;SBI Debt Fund Series B - 16 (1100 Days) - Direct Plan - Dividend
+120197;ICICI Prudential Liquid - Direct Plan -  Growth
+120191;ICICI Prudential Liquid - Direct Plan -  Dividend Others
+120190;ICICI Prudential Liquid - Direct Plan -  Weekly Dividend
+120198;ICICI Prudential Liquid - Direct Plan -  Annual Dividend
+101408;BARODA PIONEER LIQUID FUND- Regular Growth Option
+101409;BARODA PIONEER LIQUID FUND-Regular Daily Dividend Option
+101402;Sahara Liquid Fund-Variable Pricing - Growth option
+101400;Sahara Liquid Fund-Variable Pricing - Weekly Dividend Option
+101401;Sahara Liquid Fund-Variable Pricing- Monthly Dividend Option
+101407;BARODA PIONEER LIQUID FUND-Regular Dividend Option
+119784;SBI MAGNUM INSTA CASH FUND -  DIRECT PLAN - DAILY  DIVIDEND
+119833;SBI MAGNUM INSTA CASH FUND - LIQUID FLOATER - DIRECT PLAN - GROWTH
+103780;JM ARBITRAGE ADVANTAGE FUND-Growth
+112645;Essel Liquid Fund-Regular Plan-Daily Dividend Option
+133484;UTI MMF - Monthly Div Option
+120407;JM High Liquidity Fund (Direct)  - Weekly Dividend Option
+105989;DSP BlackRock Micro Cap Fund - Regular - Growth
+119368;BOI AXA Liquid Fund- Direct Plan- Daily Dividend
+119369;BOI AXA Liquid Fund- Direct Plan- Growth
+130024;SBI Dual Advantage Fund - Series III - Direct Plan - Growth
+134687;SBI DEBT FUND SERIES B - 18 (1100 DAYS) - REGULAR PLAN - DIVIDEND
+103637;ICICI Prudential Money Market Fund Option - Monthly Dividend
+103636;ICICI Prudential Money Market Fund Option -Fortnightly Dividend
+103635;ICICI Prudential Money Market Fund Option - Weekly Dividend
+103634;ICICI Prudential Money Market Fund Option - Daily Dividend
+103633;ICICI Prudential Money Market Fund Option - Growth
+130025;SBI DEBT FUND SERIES A - 28 (367 DAYS) - REGULAR PLAN - GROWTH
+134316;SBI DEBT FUND SERIES B - 8 (1105 DAYS) - DIRECT PLAN - DIVIDEND
+134319;SBI DEBT FUND SERIES B - 9 (1105 DAYS) - DIRECT PLAN - DIVIDEND
+140382;IDFC Balanced Fund-Direct Plan-Growth
+140383;IDFC Balanced Fund-Direct Plan-Dividend
+140381;IDFC Balanced Fund-Regular Plan-Growth
+140386;BNP PARIBAS ENHANCED ARBITRAGE FUND-DIRECT PLAN-GROWTH OPTION
+140387;BNP PARIBAS ENHANCED ARBITRAGE FUND -DIRECT PLAN - ADHOC DIVIDEND OPTION
+140384;IDFC Balanced Fund-Regular Plan-Dividend
+140385;BNP PARIBAS ENHANCED ARBITRAGE FUND- REGULAR PLAN- GROWTH OPTION
+140388;BNP PARIBAS ENHANCED ARBITRAGE FUND-REGULAR PLAN- ADHOC DIVIDEND OPTION
+140389;SUNDARAM SELECT MICRO CAP SERIES XI - REGULAR PLAN - GROWTH
+100852;Reliance Liquid Fund-Treasury Plan -Daily Dividend Reinvestment Option
+100853;Reliance Liquid Fund-Treasury Plan -Weekly Dividend Reinvestment Option
+100851;Reliance Liquid Fund-Treasury Plan -Growth Plan
+100855;Reliance Liquid Fund-Treasury Plan -Monthly Dividend Plan
+131483;DSP BlackRock 3 Years Close Ended Equity Fund - Direct Plan - Dividend (Maturity Date 4-Jan-2021)
+139226;SBI DEBT FUND SERIES B - 36 (1131 DAYS) - DIRECT PLAN - DIVIDEND PAYOUT
+134688;SBI DEBT FUND SERIES B - 18 (1100 DAYS) - DIRECT PLAN - DIVIDEND
+139790;SBI DEBT FUND SERIES B - 43(1100 DAYS)- DIRECT PLAN - DIVIDEND PAYOUT
+139793;SBI Dual Advantage Fund  XVII - Direct Plan - Dividend Payout
+139792;SBI Dual Advantage Fund  XVII - Regular Plan - Growth
+139795;SBI Dual Advantage Fund - Series XVII - Regular Plan - Dividend Payout
+101894;Kotak Floater Short Term-(Weekly Dividend)
+101893;Kotak Floater Short Term-(Growth)
+131484;DSP BlackRock 3 Years Close Ended Equity Fund - Direct Plan - Growth (Maturity Date 4-Jan-2021)
+120836;Escorts Liquid Plan-Daily Dividend Option-Direct Plan
+120837;Escorts Liquid Plan-Growth Option-Direct Plan
+120838;Escorts Liquid Plan-Monthly Dividend Option-Direct Plan
+120839;Escorts Liquid Plan-Weekly Dividend Option-Direct Plan
+117608;Quantum Multi Asset Fund - Direct Plan Growth Option
+119110;HDFC CM Call Plan -Direct Plan - Growth Option
+126209;SBI DEBT FUND SERIES - 16 MONTHS - 2 - DIRECT PLAN - GROWTH
+133387;UTI MMF - Monthly Div Option - Direct
+140241;Edelweiss Tax Advantage Fund - Direct Plan - Growth Option
+140240;Edelweiss Tax Advantage Fund - Direct Plan - Dividend Option
+134669;SBI DEBT FUND SERIES B - 17 (1100 DAYS) - REGULAR PLAN - DIVIDEND
+102010;UTI-  Liquid Fund-Cash Plan-INST - Daily Dividend Reinvestment Option
+102011;UTI-  Liquid Fund-Cash Plan-INST Mthl
+102012;UTI-  Liquid Fund-Cash Plan-INST Growth
+102013;UTI-  Liquid Fund-Cash Plan-INST Wkly
+106842;Kotak Floater Short Term - (Daily Dividend)
+139225;SBI DEBT FUND SERIES B - 36 (1131 DAYS) - REGULAR PLAN - DIVIDEND PAYOUT
+140012;SBI Debt Fund Series B - 44 (1100 Days) - Direct Plan - Dividend
+140013;SBI Debt Fund Series B - 44 (1100 Days) - Regular Plan - Growth
+140011;SBI Debt Fund Series B - 44 (1100 Days) - Direct plan - Growth
+140014;SBI Debt Fund Series B - 44 (1100 Days) - Regular Plan - Dividend
+139403;SBI DEBT FUND SERIES B - 41(1100 DAYS)- DIRECT PLAN - DIVIDEND PAYOUT
+139405;SBI DEBT FUND SERIES B - 41(1100 DAYS)- REGULAR PALN - GROWTH
+139404;SBI DEBT FUND SERIES B - 41(1100 DAYS)- REGULAR PLAN - DIVIDEND PAYOUT
+139406;SBI DEBT FUND SERIES B - 41(1100 DAYS)- DIRECT PLAN - GROWTH
+100874;HDFC Liquid Fund-Dividend - Weekly
+100875;HDFC Liquid Fund-Dividend - Daily
+100876;HDFC Liquid Fund-Dividend - Monthly
+100877;HDFC Liquid Fund-Premium Plan - Dividend-Daily
+100873;HDFC Liquid Fund-PREMIUM- Growth
+128321;SBI DEBT FUND SERIES A - 9 DIRECT - GROWTH
+109353;Canara Robeco Liquid-Regular Plan-Growth
+109350;Canara Robeco Liquid-Regular Plan-Weekly Div Reinvest.
+109351;Canara Robeco Liquid-Regular Plan-Monthly Div Reinvest.
+119283;L&T  Cash Fund - Direct Plan - Growth
+119282;L&T Cash Fund - Direct Plan- Monthly Dividend
+119285;L&T Cash Fund - Direct Plan- Weekly Dividend
+119284;L&T Cash Fund - Direct Plan- Daily Dividend
+111704;BARODA PIONEER LIQUID FUND - Plan A - GROWTH OPTION
+111707;BARODA PIONEER LIQUID FUND - Plan A - DAILY DIVIDEND OPTION
+111703;Taurus Liquid Fund - Regular Plan -SI Daily Dividend Option
+119137;Indiabulls Liquid Fund - Direct Plan - Weekly Dividend Option
+119136;Indiabulls Liquid Fund - Direct Plan - Daily Dividend Option
+119135;Indiabulls Liquid Fund - Direct Plan - Growth Option
+119139;Indiabulls Liquid Fund - Direct Plan - Monthly Dividend Option
+119138;Indiabulls Liquid Fund - Direct Plan - Fortnightly Dividend Option
+104308;ICICI Prudential Liquid - Half Yearly Dividend
+140736;SBI DEBT FUND SERIES B - 46 (1155 DAYS) - DIRECT PLAN - DIVIDEND PAYOUT
+140734;SBI DEBT FUND SERIES B - 46 (1155 DAYS) - REGULAR PLAN - DIVIDEND PAYOUT
+102009;UTI-  Liquid Fund-Cash Plan-Growth
+102008;UTI-  Liquid Fund-Cash Plan-MTLY
+140228;Edelweiss Mid and Small Cap Fund - Direct Plan - Growth Option
+140225;Edelweiss Mid and Small Cap Fund - Regular Plan - Growth Option
+140227;Edelweiss Mid and Small Cap Fund - Direct Plan - Dividend Option
+140226;Edelweiss Mid and Small Cap Fund - Regular Plan - Dividend Option
+140032;ICICI Prudential Value Fund - Series 9 - Direct Plan - Dividend Option
+120280;Sahara Liquid Fund-Variable Pricing -Direct - Growth option
+120304;UTI-  Liquid Fund-Cash Plan-Inst Growth Direct
+119424;Tata Liquid Fund- Direct Plan- Growth
+119421;Tata Liquid Fund- Direct Plan-Daily Dividend
+119423;Tata Liquid Fund- Direct Plan- Monthly Dividend
+119422;Tata Liquid Fund- Direct Plan- Weekly Dividend
+135708;SBI DEBT FUND SERIES B - 27 (1100 DAYS) - DIRECT PLAN - DIVIDEND
+134196;SBI DUAL ADVANTAGE FUND - SERIES VIII - DIRECT PLAN - GROWTH
+104240;Taurus Liquid Fund-Dividend
+118609;Reliance Liquid Fund - Cash Plan - Direct Plan Monthly Dividend Plan
+101206;SBI MAGNUM INSTA CASH FUND - LIQUID FLOATER - REGULAR PLAN - GROWTH
+101755;ICICI Prudential Liquid Plan Retail Monthly Dividend
+101750;ICICI Prudential Liquid Plan Retail Growth
+101751;ICICI Prudential Liquid Institutional Plan - Growth
+111705;BARODA PIONEER LIQUID FUND - PLAN A - WEEKLY DIVIDEND OPTION
+140762;SBI DEBT FUND SERIES B - 49 (1170 DAYS) - REGULAR PLAN - DIVIDEND PAYOUT
+131337;SBI EQUITY OPPORTUNITIES FUND - SERIES I - REGULAR PLAN - DIVIDEND
+101972;Aditya Birla Sun Life Floating Rate - Short Term - Retail Daily Dividend
+101973;Aditya Birla Sun Life Floating Rate - Short Term - Daily Dividend
+101970;Aditya Birla Sun Life Floating Rate - Short Term - Retail Weekly Dividend
+101971;Aditya Birla Sun Life Floating Rate - Short Term - Retail Growth
+101976;Aditya Birla Sun Life Floating Rate - Short Term - Growth
+101974;Aditya Birla Sun Life Floating Rate - Short Term - Weekly Dividend
+105279;SBI Premier Liquid Fund - Institutional  - Fortnightly Dividend
+105278;SBI Premier Liquid Fund - Institutional  - Weekly Dividend
+105275;SBI Premier Liquid Fund - Institutional - Daily Dividend
+105274;SBI Premier Liquid Fund - Institutional - Growth
+133397;JM Arbitrage Advantage Fund (Direct) - Half Yearly Bonus Option - Principal Units
+133396;JM Arbitrage Advantage Fund - Quarterly Bonus Option - Principal Units
+118859;Mirae Asset Cash Management Fund - Direct Plan - Growth
+133399;JM Arbitrage Advantage Fund - Half Yearly Bonus Option - Principal Units
+133398;JM Arbitrage Advantage Fund (Direct) - Quarterly Bonus Option - Principal Units
+134771;SBI DEBT FUND SERIES B - 19 (1100 Days) - DIRECT PLAN - DIVIDEND
+128388;SBI DEBT FUND SERIES A - 11 DIRECT PLAN - GROWTH
+119076;DSP BlackRock Equity Fund - Direct Plan - Growth
+119077;DSP BlackRock Equity Fund - Direct Plan - Dividend
+119070;DSP BlackRock Small and Mid Cap Fund - Direct Plan - Dividend
+119071;DSP BlackRock Small and Mid Cap Fund - Direct Plan - Growth
+105875;DSP BlackRock Equity Fund - Regular Plan - Growth
+131131;SBI DUAL ADVANTAGE FUND - SERIES IV - DIRECT PLAN - GROWTH
+100618;Sundaram Money Fund- Retail Appreciation
+100619;Sundaram Money Fund- Retail Quarterly Dividend Reinvestment
+135721;UTI - Liquid Fund - Instn Quarterly Div Option
+134689;SBI DEBT FUND SERIES B - 18 (1100 DAYS) - DIRECT PLAN - GROWTH
+140414;Kotak Equity Arbitrage Fund - Fortnightly - Regular
+140413;Kotak Equity Arbitrage Fund -Fortnightly - Direct
+140735;SBI DEBT FUND SERIES B - 46 (1155 DAYS) - DIRECT PLAN - GROWTH
+119248;DSP BlackRock India T.I.G.E.R. Fund - Direct Plan - Dividend
+119247;DSP BlackRock India T.I.G.E.R. Fund - Direct Plan - Growth
+119241;DSP BlackRock Tax Saver Fund - Direct Plan - Dividend
+119242;DSP BlackRock Tax Saver Fund - Direct Plan - Growth
+101221;ICICI Prudential Money Market Fund Retail Growth (erstwhile Cash Option)
+103736;Quantum Liquid Fund - Direct Plan Daily Dividend Re-investment Option
+103734;Quantum Liquid Fund - Direct Plan Growth Option
+103735;Quantum Liquid Fund - Direct Plan Monthly Dividend Option
+103884;SBI MAGNUM INSTA CASH FUND - REGULAR PLAN - WEEKLY DIVIDEND
+103885;Aditya Birla Sun Life Cash Plus - Dividend
+140356;Edelweiss Economic Resurgence Fund - Regular Plan - Dividend Option
+140350;Edelweiss Equity Savings Advantage Fund - Direct Plan - Bonus Option
+128165;SBI DEBT FUND SERIES - 366 DAYS - 54 - DIRECT PLAN - DIVIDEND
+125342;IIFL LIQUID FUND REGULAR PLAN  DAILY DIVIDEND REINVESTMENT
+125345;IIFL LIQUID FUND DIRECT PLAN  GROWTH
+125349;IIFL LIQUID FUND DIRECT PLAN  DAILY DIVIDEND REINVESTMENT
+102701;Sundaram Money Fund-Institutional Plan-Daily Div. Reinvestment
+102703;Sundaram Money Fund-Institutional Plan-Growth Option
+118451;IDBI Liquid Fund-Weekly Dividend Direct
+118450;IDBI Liquid Fund-Daily Dividend Direct
+119467;Principal Cash Management Fund - Direct Plan - Dividend Option - Daily
+119466;Principal Cash Management Fund -Direct Plan - Dividend Option - Monthly
+119469;Principal Cash Management Fund - Direct Plan - Dividend Option - Weekly
+119468;Principal Cash Management Fund - Direct Plan - Growth Option
+101549;JM HIGH LIQUIDITY - BONUS OPTION
+140437;Essel Liquid Fund-Unclaimed Redemption and Dividend Plan greater than 3 years
+130476;BNP PARIBAS OVERNIGHT FUND - MONTHLY DIVIDEND OPTION
+130474;BNP PARIBAS OVERNIGHT FUND - WEEKLY DIVIDEND OPTION
+130473;BNP PARIBAS OVERNIGHT FUND - DAILY DIVIDEND OPTION
+130472;BNP PARIBAS OVERNIGHT FUND - GROWTH OPTION
+130471;BNP PARIBAS OVERNIGHT FUND - REGULAR PLAN - MONTHLY DIVIDEND OPTION
+130479;BNP PARIBAS OVERNIGHT FUND -- DIRECT PLAN - GROWTH OPTION
+101714;Tata Money Market Fund Regular Plan  - Daily Dividend
+104492;Invesco India Liquid Fund - Monthly Dividend
+135103;SBI DEBT FUND SERIES B - 23 (1100 DAYS) - DIRECT PLAN -DIVIDEND
+127811;SBI DEBT FUND SERIES - 366 DAYS - 53 - DIRECT PLAN - GROWTH
+127810;SBI DEBT FUND SERIES - 366 DAYS - 53 - DIRECT PLAN - DIVIDEND
+127813;SBI DEBT FUND SERIES - 366 DAYS - 53 - REGULAR PLAN - GROWTH
+131469;SBI DEBT FUND SERIES A - 44 (1111 DAYS) - DIRECT PLAN - GROWTH
+131468;SBI DEBT FUND SERIES A - 44 (1111 DAYS) - DIRECT PLAN - DIVIDEND
+131467;SBI DEBT FUND SERIES A - 44 (1111 DAYS) - REGULAR PLAN - DIVIDEND
+111550;Quantum Tax Saving Fund - Direct Plan Dividend Option
+140182;Edelweiss Liquid Fund - Regular Plan - Growth Option
+140183;Edelweiss Liquid Fund - Regular Plan - Monthly Dividend Option
+140185;Edelweiss Liquid Fund - Regular Plan - Weekly Dividend Option
+120898;SBI DEBT FUND SERIES - 60 MONTHS - 3 - REGULAR PLAN - GROWTH
+120899;SBI DEBT FUND SERIES - 60 MONTHS - 3 - REGULAR PLAN - DIVIDEND
+113153;DSP BlackRock Micro Cap Fund - Regular - Dividend
+139228;SBI DEBT FUND SERIES B- 36 (1131 DAYS) - REGULAR PLAN - GROWTH
+122235;L&T Liquid Fund - Direct Plan - Weekly Dividend
+138285;DHFL Pramerica Insta Cash Plus Fund-Daily Dividend
+138286;DHFL Pramerica INSTA CASH PLUS FUND - BONUS OPTION
+138287;DHFL Pramerica Insta Cash Plus Fund - Monthly Dividend
+138280;DHFL Pramerica Insta Cash Plus Fund-DIVIDEND-Daily Dividend
+138281;DHFL Pramerica Insta Cash Plus Fund-Growth-GROWTH
+138282;DHFL Pramerica Insta Cash Plus Fund-Institutional Plan-Growth
+138283;DHFL Pramerica Insta Cash Plus Fund-Institutional Plan-Daily Dividend
+119832;SBI MAGNUM INSTA CASH FUND - LIQUID FLOATER - DIRECT PLAN - WEEKLY DIVIDEND
+119831;SBI MAGNUM INSTA CASH FUND - LIQUID FLOATER - DIRECT PLAN - DAILY DIVIDEND
+120406;JM High Liquidity Fund (Direct) - Growth Option
+120408;JM High Liquidity Fund (Direct) - Quarterly Dividend Option
+119764;Kotak Liquid - Daily Dividend - Direct
+101993;HDFC Cash Management Fund - Savings Plan-Growth Option
+101994;HDFC Cash Management Fund - Savings Plan-Daily Dividend Option
+101995;HDFC Cash Management Fund - Savings Plan-Weekly Dividend Option
+101996;HDFC Cash Management Fund - Call Plan-Growth Option
+101997;HDFC Cash Management Fund - Call Plan-Daily Dividend Plan
+134313;SBI DEBT FUND SERIES B - 8 (1105 DAYS) - DIRECT PLAN - GROWTH
+134314;SBI DEBT FUND SERIES B - 8 (1105 DAYS) - REGULAR PLAN - DIVIDEND
+134315;SBI DEBT FUND SERIES B - 8 (1105 DAYS) - REGULAR PLAN - GROWTH
+134318;SBI DEBT FUND SERIES B - 9 (1105 DAYS) - REGULAR PLAN - DIVIDEND
+133331;SBI DEBT FUND SERIES B - 6 (1111 DAYS) - REGULAR PLAN - DIVIDEND
+133330;SBI DEBT FUND SERIES B - 6 (1111 DAYS) - REGULAR PLAN - GROWTH
+133333;SBI DEBT FUND SERIES B - 6 (1111 DAYS) - DIRECT PLAN - DIVIDEND
+133332;SBI DEBT FUND SERIES B - 6 (1111 DAYS) - DIRECT PLAN - GROWTH
+112077;UTI MMF - Instn Growth Plan
+112076;UTI MMF - Instn Plan-Daily Dividend
+134763;UTI MMF - Instn Half Yearly Div Option
+119019;DSP BlackRock Balanced Fund - Direct Plan - Growth
+131401;SBI DEBT FUND SERIES A - 43 (1111 DAYS) - DIRECT PLAN - GROWTH
+131400;SBI DEBT FUND SERIES A - 43 (1111 DAYS) - REGULAR PLAN - DIVIDEND
+131403;SBI DEBT FUND SERIES A - 43 (1111 DAYS) - DIRECT PLAN - DIVIDEND
+131402;SBI DEBT FUND SERIES A - 43 (1111 DAYS) - REGULAR PLAN - GROWTH
+140030;ICICI Prudential Value Fund - Series 9 - Dividend Option
+104241;Taurus Liquid Fund-Growth
+120216;ICICI Prudential Money Market Fund Option - Direct Plan -  Dividend Others
+120212;ICICI Prudential Money Market Fund Option - Direct Plan -  Weekly Dividend
+120213;ICICI Prudential Money Market Fund Option - Direct Plan -  Monthly Dividend
+120210;ICICI Prudential Money Market Fund Option - Direct Plan -  Fortnightly Dividend
+120211;ICICI Prudential Money Market Fund Option - Direct Plan -  Growth
+118578;Franklin India TREASURY MANAGEMENT ACCOUNT - Super Institutional - Direct - Daily Dividend
+118579;Franklin India TREASURY MANAGEMENT ACCOUNT - Super Institutional - Direct - Weekly Dividend
+118577;Franklin India TREASURY MANAGEMENT ACCOUNT - Super Instittutional - Direct - Growth
+100221;JM Balanced Fund-Growth
+100220;JM Balanced Fund-Dividend
+119766;Kotak Liquid - Growth - Direct
+119765;Kotak Liquid - Weekly Dividend - Direct
+100048;Aditya Birla Sun Life Cash Plus-Institutional -  Weekly Dividend
+100041;Aditya Birla Sun Life Cash Plus - Institutional Dividend
+100043;Aditya Birla Sun Life Cash Plus-Institutional (Growth)
+100042;Aditya Birla Sun Life Cash Plus-Retail (Growth)
+100044;Aditya Birla Sun Life Cash Plus-Retail (Dividend)
+100047;Aditya Birla Sun Life Cash Plus - Growth
+100046;Aditya Birla Sun Life Cash Plus - Daily Dividend
+112901;DSP BlackRock Focus 25 Fund - Regular Plan - Growth
+132994;SBI DEBT FUND SERIES B - 3 (1111 DAYS) - DIRECT PLAN - GROWTH
+135709;SBI DEBT FUND SERIES B - 27 (1100 DAYS) - REGULAR PLAN - GROWTH
+136141;SBI DEBT FUND SERIES B - 31 (1200 DAYS) - REGULAR PLAN - GROWTH
+136143;SBI DEBT FUND SERIES B - 31 (1200 DAYS) - DIRECT PLAN - DIVIDEND
+136142;SBI DEBT FUND SERIES B - 31 (1200 DAYS) - DIRECT PLAN - GROWTH
+136144;SBI DEBT FUND SERIES B - 31 (1200 DAYS) - REGULAR PLAN - DIVIDEND
+130599;SBI DEBT FUND SERIES A - 36 (36 Months) DIRECT PLAN - DIVIDEND
+101078;JM HIGH LIQUIDITY DAILY DIVIDEND PLAN
+139260;JM High Liquidity Fund Unclaimed Dividend IEF (Direct) Growth Plan
+139889;Franklin India TREASURY MANAGEMENT ACCOUNT - Unclaimed Redemption Plan - Growth
+135064;SBI DEBT FUND SERIES B - 22 (1100 DAYS) - REGULAR PLAN - GROWTH
+133107;SBI EQUITY OPPORTUNITIES FUND - SERIES II - REGULAR PLAN - DIVIDEND
+132858;SBI DEBT FUND SERIES B - 2 (1111 DAYS) - DIRECT PLAN - DIVIDEND
+132857;SBI DEBT FUND SERIES B - 2 (1111 DAYS) - REGULAR PLAN - GROWTH
+132856;SBI DEBT FUND SERIES B - 2 (1111 DAYS) - DIRECT PLAN - GROWTH
+132855;SBI DEBT FUND SERIES B - 2 (1111 DAYS) - REGULAR PLAN - DIVIDEND
+136358;SBI DUAL ADVANTAGE FUND SERIES XIV- DIRECT PLAN - DIVIDEND PAYOUT
+131273;SBI DEBT FUND SERIES A - 42 (1111 DAYS) - REGULAR PLAN - GROWTH
+130904;JM Balanced Fund (Direct) - Annual Bonus Option
+119745;Kotak Floater Short Term - (Daily Dividend) - Direct
+119746;Kotak Floater Short Term-(Growth) - Direct
+119747;Kotak Floater Short Term-Direct Plan-Monthly Dividend Option
+130013;ICICI Prudential Money Market Fund Option - Dividend Others
+139123;SBI Dual Advantage Fund - Series XV- Direct Plan - Growth
+139121;SBI Dual Advantage Fund - Series XV- Regular Plan - Growth
+129117;SBI DEBT FUND SERIES A - 17 DIRECT PLAN - GROWTH
+129118;SBI DEBT FUND SERIES A - 17 REGULAR PLAN - GROWTH
+129119;SBI DEBT FUND SERIES A - 17 REGULAR PLAN - DIVIDEND
+112039;Quantum Equity Fund of Funds - Direct Plan Growth Option
+112038;Quantum Equity Fund of Funds - Direct Plan Dividend Option
+126163;IDBI Liquid Fund Bonus Direct
+126164;IDBI Liquid Fund Bonus Regular
+103491;Quantum Long Term Equity Fund - Direct Plan Dividend Option
+103490;Quantum Long Term Equity Fund - Direct Plan Growth Option
+118720;Reliance Liquidity Fund - Direct Plan Monthly Dividend Plan
+120038;HSBC Cash Fund -  Growth Direct
+120039;HSBC Cash Fund - Monthly Dividend Direct
+120037;HSBC Cash Fund - Daily Dividend Direct
+120253;Sahara Liquid Fund-Fixed Pricing -Direct - Daily Dividend Option- Direct
+128693;SBI DEBT FUND SERIES A - 14 DIRECT PLAN - GROWTH
+128695;SBI DEBT FUND SERIES A - 14 REGULAR PLAN - GROWTH
+139538;Mahindra liquid Fund - Direct Plan -Growth
+139535;Mahindra Liquid Fund - Direct Plan - Daily Dividend Reinvestment
+139534;Mahindra Liquid Fund - Regular Plan - Daily Dividend Reinvestment
+139537;Mahindra Liquid Fund - Regular Plan - Growth
+139536;Mahindra Liquid Fund - Direct Plan - Weekly Dividend Reinvestment
+139532;SBI Dual Advantage Fund - Series XVI - Regular Plan - Dividend Payout
+113248;Taurus Liquid Fund - Regular Plan - SI Weekly Dividend Option
+131132;SBI DUAL ADVANTAGE FUND - SERIES IV - DIRECT PLAN - DIVIDEND
+138292;DHFL Pramerica Insta Cash Plus Fund - Annual Dividend Option
+141065;Quantum Liquid Fund - Regular Plan Daily Dividend Re-Investment Option
+141067;Quantum Liquid Fund - Regular Plan Monthly Dividend Option
+100081;DSP BlackRock Balanced Fund- Regular Plan - Growth
+100080;DSP BlackRock Equity Fund - Regular Plan - Dividend
+100082;DSP BlackRock Balanced Fund- Regular Plan -Dividend
+128674;SBI DEBT FUND SERIES A - 13 DIRECT PLAN - GROWTH
+140355;Edelweiss Economic Resurgence Fund - Regular Plan - Growth Option
+140354;Edelweiss Economic Resurgence Fund - Direct Plan - Dividend Option
+140351;Edelweiss Equity Savings Advantage Fund - Regular Plan - Growth Option
+140352;Edelweiss Equity Savings Advantage Fund - Regular Plan - Bonus Option
+134808;SBI DEBT FUND SERIES B - 20 (1100 DAYS) - REGULAR PLAN - GROWTH
+134809;SBI DEBT FUND SERIES B - 20 (1100 DAYS) - DIRECT PLAN - GROWTH
+118893;Taurus Liquid Fund-Direct Plan-SI Growth Option
+118892;Taurus Liquid Fund-Direct Plan-SI Weekly Dividend Option
+118891;Taurus Liquid Fund-Direct Plan-SI Daily Dividend Option
+139985;UTI Capital Protection Oriented Scheme Series VIII-III (1281 Days) - Regular Plan - Growth Option
+139986;UTI Capital Protection Oriented Scheme Series VIII-III (1281Days) - Direct Plan - Growth Option
+139987;UTI Capital Protection Oriented Scheme Series VIII-III (1281 Days) - Direct Plan - Dividend Option
+131338;SBI EQUITY OPPORTUNITIES FUND - SERIES I - DIRECT PLAN - GROWTH
+112635;UTI MMF - Instn Weekly Option
+112636;Essel Liquid Fund-Regular Plan-Growth Option
+131336;SBI EQUITY OPPORTUNITIES FUND - SERIES I - REGULAR PLAN - GROWTH
+115505;ICICI Prudential Liquid - Dividend Others
+136546;SBI DEBT FUND SERIES B - 35 (1131 DAYS) - REGULAR PLAN - DIVIDEND PAYOUT
+129869;SBI DEBT FUND SERIES A - 26 (682 DAYS) DIRECT PLAN - GROWTH
+118701;Reliance Liquid Fund - Treasury Plan - Direct Plan Growth Plan - Growth Option
+118700;Reliance Liquid Fund - Treasury Plan - Direct Plan Weekly Dividend Reinvestment Option
+140102;Reliance ETF Infra BeES
+140107;CPSE ETF
+120271;Sahara Liquid Fund-Variable Pricing -Direct - Daily Dividend option
+120272;Sahara Liquid Fund-Variable Pricing -Direct - Weekly Dividend Option
+120273;Sahara Liquid Fund-Variable Pricing- Direct - Monthly Dividend Option
+133410;JM Balanced Fund - Quarterly Bonus Option - Principal Units
+133411;JM Balanced Fund (Direct) - Quarterly Bonus Option - Principal Units
+133412;JM Balanced Fund (Direct) - Monthly Dividend Option
+101754;ICICI Prudential Liquid Plan Retail Daily Dividend
+101752;ICICI Prudential Liquid Plan Retail Weekly Dividend
+103048;Reliance Liquidity Fund-Growth Plan-Growth Option
+103049;Reliance Liquidity Fund-Growth Plan-Bonus Option
+129658;SBI DEBT FUND SERIES A - 22 DIRECT PLAN - DIVIDEND
+100621;Sundaram Money Fund- Retail Weekly Div. Reinvst
+135324;SBI DEBT FUND SERIES B - 25 (1100 DAYS) - DIRECT PLAN - GROWTH
+115995;Indiabulls Liquid Fund - Monthly Dividend Option
+115991;Indiabulls Liquid Fund - Growth Option
+115993;Indiabulls Liquid Fund - Weekly Dividend Option
+115992;Indiabulls Liquid Fund - Daily Dividend Option
+100538;Franklin India Treasury Management Account-Regular Plan - Growth
+100537;Franklin India Treasury Management Account-Regular Plan - Weekly Dividend
+100247;JM High Liquidity Fund-Super Institutional Plan- Growth
+100244;JM High Liquidity Fund-- Quarterly Dividend
+135326;SBI DEBT FUND SERIES B - 25 (1100 DAYS) - DIRECT PLAN - DIVIDEND
+130946;ICICI Prudential Money Market Fund - Direct Plan Bonus
+135327;SBI DEBT FUND SERIES B - 25 (1100 DAYS) - REGULAR PLAN - DIVIDEND
+120489;JM Equity Fund (Direct) - Dividend Option
+120483;JM Balanced Fund (Direct) - Dividend Option
+120482;JM Arbitrage Advantage Fund (Direct) - Growth Option
+120481;JM Arbitrage Advantage Fund (Direct) - Dividend Option
+120484;JM Balanced Fund (Direct) - Growth Option
+140597;SBI DUAL ADVANTAGE FUND - SERIES XIX - DIRECT PLAN - GROWTH
+140596;SBI DUAL ADVANTAGE FUND - SERIES XIX - DIRECT PLAN - DIVIDEND PAYOUT
+140595;SBI DUAL ADVANTAGE FUND - SERIES XIX - REGULAR PLAN - GROWTH
+135063;SBI DEBT FUND SERIES B - 22 (1100 DAYS) - DIRECT PLAN - GROWTH
+135062;SBI DEBT FUND SERIES B - 22 (1100 DAYS) - REGULAR PLAN - DIVIDEND
+113032;DSP BlackRock Focus 25 Fund - Regular Plan - Dividend
+133108;SBI EQUITY OPPORTUNITIES FUND - SERIES II - DIRECT PLAN - GROWTH
+133109;SBI EQUITY OPPORTUNITIES FUND - SERIES II - DIRECT PLAN - DIVIDEND
+133106;SBI EQUITY OPPORTUNITIES FUND - SERIES II - REGULAR PLAN - GROWTH
+112341;Reliance Liquidity Fund-Dividend Plan-Quarterly Dividend Plan
+112340;Reliance Liquid Fund-Treasury Plan - Quarterly Dividend Plan
+119094;HDFC CM Savings -Direct Plan - Weekly Dividend Option
+119095;DSP BlackRock Focus 25 Fund - Direct Plan - Dividend
+119096;DSP BlackRock Focus 25 Fund - Direct Plan - Growth
+119090;HDFC Liquid Fund -Direct Plan - Monthly Dividend Option
+119091;HDFC Liquid Fund -Direct Plan - Growth Option
+119092;HDFC CM Savings -Direct Plan - Growth Option
+119093;HDFC CM Savings -Direct Plan - Daily Dividend Option
+111645;Mirae Asset Cash Management Fund - Monthly Dividend
+111644;Mirae Asset Cash Management Fund - Weekly Dividend
+111647;Mirae Asset Cash Management Fund - Daily Dividend
+111646;Mirae Asset Cash Management Fund - Growth
+129846;SBI DEBT FUND SERIES A - 25 REGULAR PLAN - DIVIDEND
+129847;SBI DEBT FUND SERIES A - 25 REGULAR PLAN - GROWTH
+129848;SBI DEBT FUND SERIES A - 25 DIRECT PLAN - GROWTH
+130284;SBI DEBT FUND SERIES A - 32 (367 DAYS) REGULAR PLAN - DIVIDEND
+130281;SBI DEBT FUND SERIES A - 32 (367 DAYS) REGULAR PLAN - GROWTH
+130283;SBI DEBT FUND SERIES A - 32 (367 DAYS) DIRECT PLAN - GROWTH
+140168;UTI - Dual Advantage Fixed Term Series IV-I (1279 Days) - Regular Plan - Growth Option
+140169;UTI - Dual Advantage Fixed Term Series IV-I (1279 Days) - Direct Plan - Dividend Option
+120299;UTI MMF - Instn Growth Plan -Direct
+118910;HSBC Cash Fund - Institutional Plan - Growth
+140120;Aditya Birla Sun Life Resurgent India Fund - Series 2 - Direct Plan-Dividend Payout
+104772;DSP BlackRock Tax Saver Fund - Regular Plan - Growth
+134624;SBI Debt Fund Series B -16 (1100 Days) - Direct Plan - Growth
+134625;SBI Debt Fund Series B -16 (1100 Days) - Regular Plan - Dividend
+133855;SBI DEBT FUNS SERIES B - 7 (38 MONTHS) - REGULAR PLAN - GROWTH
+107693;Quantum Gold Fund (an ETF)
+133394;JM Arbitrage Advantage Fund - Annual Bonus Option
+118056;L&T Cash Fund - Regular Plan - Daily Dividend
+118058;L&T Cash Fund - Regular Plan - Growth
+101398;Sahara Liquid Fund-Fixed Pricing - Monthly Dividend Option
+101399;Sahara Liquid Fund-Variable Pricing - Daily Dividend option
+101397;Sahara Liquid Fund-Fixed Pricing -  Weekly Dividend Option
+101394;Sahara Liquid Fund-Fixed Pricing - Growth option
+101393;Sahara Liquid Fund-Fixed Pricing - Daily Dividend Option
+136359;SBI DUAL ADVANTAGE FUND SERIES XIV- DIRECT PLAN - GROWTH
+132919;SBI DUAL ADVANTAGE FUND - SERIES V - DIRECT PLAN - GROWTH
+134770;SBI DEBT FUND SERIES B - 19 (1100 Days) - DIRECT PLAN - GROWTH
+115328;ICICI Prudential Money Market Fund Dividend
+119511;Aditya Birla Sun Life Floating Rate - Short Term - Growth - Direct Plan
+119513;Aditya Birla Sun Life Floating Rate - Short Term - Daily Dividend - Direct Plan
+119512;Aditya Birla Sun Life Floating Rate - Short Term - Weekly Dividend - Direct Plan
+102443;Franklin India Treasury Management - Institution-Daily
+102442;Franklin India Treasury Management - Institution-Weekly
+102441;Franklin India Treasury Management - Institution-Growth
+135786;SBI DEBT FUND SERIES B - 28 (1100 DAYS) - DIRECT PLAN - GROWTH
+135787;SBI DEBT FUND SERIES B - 28 (1100 DAYS) - REGULAR PLAN - GROWTH
+135065;SBI DEBT FUND SERIES B - 22 (1100 DAYS) - DIRECT PLAN - DIVIDEND
+131339;SBI EQUITY OPPORTUNITIES FUND - SERIES I - DIRECT PLAN - DIVIDEND
+135710;SBI DEBT FUND SERIES B - 27 (1100 DAYS) - DIRECT PLAN - GROWTH
+119689;Sundaram Money Fund - Direct Plan - Quarterly Dividend Reinvestment Option
+119688;Sundaram Money Fund - Direct Plan - Daily Dividend Reinvestment Option
+119687;Sundaram Money Fund - Direct Plan - Monthly Dividend Option
+119686;Sundaram Money Fund - Direct Plan - Growth Option
+119748;Kotak Floater Short Term-(Weekly Dividend) - Direct
+104773;DSP BlackRock Tax Saver Fund - Regular Plan - Dividend
+140089;Reliance ETF PSU Bank BeES
+140088;Reliance ETF Gold BeES
+140085;Reliance ETF Junior BeES
+140084;Reliance ETF Nifty BeES
+140087;Reliance ETF Bank BeES
+140086;Reliance ETF Liquid BeES
+120558;UTI-  Liquid Fund-Cash Plan-Inst Daily Dividend - Direct
+101847;Tata Liquid Fund-Regular Plan  -  Growth
+138297;DHFL Pramerica Insta Cash Plus Fund - Direct Plan - Daily Dividend
+141066;Quantum Liquid Fund - Regular Plan Growth Option
+138294;DHFL Pramerica Insta CashPlus Fund - Quarterly Dividend Option
+138299;DHFL Pramerica Insta Cash Plus Fund - Direct Plan - Growth
+138298;DHFL Pramerica Insta Cash Plus Fund - Direct Plan - Monthly Dividend
+125259;IIFL LIQUID FUND REGULAR PLAN  GROWTH
+139526;SBI Dual Advantage Fund - Series XVI - Direct Plan - Growth
+103140;SBI MAGNUM INSTA CASH FUND - LIQUID FLOATER - REGULAR PLAN - WEEKLY DIVIDEND
+100724;UTI MMF-Regular Plan - Flexi Dividend Option
+100725;UTI MMF-Regular Plan - Periodic Dividend Option
+100723;UTI MMF-Growth
+135566;SBI DEBT FUND SERIES B - 26 (1100 DAYS) - REGULAR PLAN - GROWTH
+135564;SBI DEBT FUND SERIES B - 26 (1100 DAYS) - DIRECT PLAN - GROWTH
+135565;SBI DEBT FUND SERIES B - 26 (1100 DAYS) - DIRECT PLAN - DIVIDEND
+135563;SBI DEBT FUND SERIES B - 26 (1100 DAYS) - REGULAR PLAN - DIVIDEND
+134611;SBI DUAL ADVANTAGE FUND - SERIES IX - REGULAR PLAN - GROWTH
+134961;JM Equity Fund - Annual Dividend Option
+134960;JM Equity Fund (Direct) - Quarterly Dividend Option
+134614;SBI DUAL ADVANTAGE FUND - SERIES IX - DIRECT PLAN - GROWTH
+131133;SBI DUAL ADVANTAGE FUND - SERIES IV - REGULAR PLAN - GROWTH
+131134;SBI DUAL ADVANTAGE FUND - SERIES IV - REGULAR PLAN - DIVIDEND
+112445;L&T Liquid Fund -Regular Plan - Daily Dividend
+112119;ICICI Prudential Liquid -Annual Dividend
+120391;Axis Liquid Fund - Direct Plan - Monthly Dividend Option
+120390;Axis Liquid Fund - Direct Plan - Weekly Dividend Option
+128933;SBI DEBT FUND SERIES A - 16 REGULAR PLAN - GROWTH
+128931;SBI DEBT FUND SERIES A - 16 DIRECT PLAN - GROWTH
+135171;JM Arbitrage Advantage Fund (Direct) - Half Yearly Dividend Option
+135170;JM Arbitrage Advantage Fund - Half Yearly Dividend Option
+135173;JM Arbitrage Advantage Fund (Direct) - Annual Dividend Option
+135172;JM Arbitrage Advantage Fund (Direct) - Monthly Dividend Option
+135174;JM Arbitrage Advantage Fund (Direct) - Quarterly Dividend Option
+140764;SBI DEBT FUND SERIES B - 49 (1170 DAYS) - DIRECT PLAN - DIVIDEND PAYOUT
+140763;SBI DEBT FUND SERIES B - 49 (1170 DAYS) - REGULAR PLAN - GROWTH
+101860;Tata Liquid High Investment Plan - Growth
+101861;Tata Liquid Fund-Regular Plan  - Weekly Dividend
+138279;DHFL Pramerica Insta Cash Plus Fund-DIVIDEND-MONTHLY DIVIDEND
+138278;DHFL Pramerica Insta Cash Plus Fund-DIVIDEND-WEEKLY DIVIDEND
+129710;SBI DEBT FUND SERIES A - 24 REGULAR PLAN - GROWTH
+136545;SBI DEBT FUND SERIES B - 35 (1131 DAYS) - REGULAR PLAN - GROWTH
+136547;SBI DEBT FUND SERIES B - 35 (1131 DAYS) - DIRECT PLAN - DIVIDEND PAYOUT
+119161;Essel Liquid Fund-Direct Plan-Dividend Option-Monthly
+119162;Essel Liquid Fund-Direct Plan-Dividend Option-Weekly
+119164;Essel Liquid Fund-Direct Plan-Growth Option
+120187;ICICI Prudential Liquid - Direct Plan -  Half Yearly Dividend
+120188;ICICI Prudential Liquid - Direct Plan -  Daily Dividend
+120189;ICICI Prudential Liquid Plan - Direct Plan - Monthly Dividend
+134690;SBI DEBT FUND SERIES B - 18 (1100 DAYS) - REGULAR PLAN - GROWTH
+130323;SBI DEBT FUND SERIES A - 34 (367 DAYS) REGULAR PLAN - GROWTH
+128954;Axis Liquid Fund - Direct plan - Bonus Option
+100620;Sundaram Money Fund- Retail Daily Dividend Reinvestment
+139788;SBI DEBT FUND SERIES B - 43(1100 DAYS)-REGULAR PLAN - DIVIDEND PAYOUT
+139789;SBI DEBT FUND SERIES B - 43(1100 DAYS)- REGULAR PLAN - GROWTH
+136433;SBI DEBT FUND SERIES B - 33 (1131 DAYS) - REGULAR PLAN - GROWTH
+136432;SBI DEBT FUND SERIES B - 33 (1131 DAYS) - DIRECT PLAN - GROWTH
+139227;SBI DEBT FUND SERIES B - 36 (1131 DAYS) - DIRECT PLAN - GROWTH
+136569;DSP BlackRock Equity Savings Fund - Direct Plan - Monthly Dividend
+136568;DSP BlackRock Equity Savings Fund - Direct Plan - Dividend
+136567;DSP BlackRock Equity Savings Fund - Direct Plan - Growth
+136566;DSP BlackRock Equity Savings Fund - Regular Plan -  Quarterly Dividend
+136565;DSP BlackRock Equity Savings Fund - Regular Plan - Monthly Dividend
+136564;DSP BlackRock Equity Savings Fund - Regular Plan - Dividend
+136563;DSP BlackRock Equity Savings Fund - Regular Plan - Growth
+119109;HDFC CM Call Plan -Direct Plan - Daily Dividend Option
+126211;SBI DEBT FUND SERIES - 16 MONTHS - 2 - REGULAR PLAN - GROWTH
+103819;DSP BlackRock Opportunities Fund-Regular Plan - Growth
+133395;JM Arbitrage Advantage Fund (Direct) - Annual Bonus Option - Principal Units
+119571;Aditya Birla Sun Life Cash Plus - Dividend - Direct Plan
+105080;SBI MAGNUM INSTA CASH FUND - REGULAR PLAN - DAILY  DIVIDEND
+119249;DSP BlackRock Top 100 Equity Fund - Direct Plan - Dividend
+118220;SBI DEBT FUND SERIES - 60 MONTHS - 2 - DIVIDEND
+118221;SBI DEBT FUND SERIES - 60 MONTHS - 2 - GROWTH
+125337;IIFL LIQUID FUND REGULAR PLAN  WEEKLY DIVIDEND
+119370;BOI AXA Liquid Fund- Direct Plan- Weekly Dividend
+115132;Quantum Gold Savings Fund - Direct Plan Growth Option
+140067;UTI Capital Protection Oriented Scheme Series VIII-IV (1996 Days) - Regular Plan - Dividend Option
+140065;UTI Capital Protection Oriented Scheme Series VIII-IV (1996 Days) - Direct Plan - Dividend Option
+100845;Reliance Liquid Fund-Cash Plan-Growth Plan
+100849;Reliance Liquid Fund-Cash Plan-Daily Dividend Reinvestment Option
+100848;Reliance Liquid Fund-Cash Plan-Weekly Dividend Reinvestment Option
+120537;Invesco India Liquid Fund - Direct Plan - Growth
+120536;Invesco India Liquid Fund - Direct Plan - Monthly Dividend
+120535;Invesco India Liquid Fund - Direct Plan - Weekly Dividend
+120534;Invesco India Liquid Fund - Direct Plan-  Daily Dividend
+139240;HSBC Cash Fund - Unclaimed Redemption Below 3 years
+139533;SBI Dual Advantage Fund - Series XVI - Regular Plan - Growth
+133284;SBI DUAL ADVANTAGE FUND - SERIES VI - REGULAR PLAN - DIVIDEND
+133281;SBI DUAL ADVANTAGE FUND - SERIES VI - REGULAR PLAN - GROWTH
+133283;SBI DUAL ADVANTAGE FUND - SERIES VI - DIRECT PLAN - DIVIDEND
+133282;SBI DUAL ADVANTAGE FUND - SERIES VI - DIRECT PLAN - GROWTH
+103781;JM ARBITRAGE ADVANTAGE FUND-Dividend
+119124;DSP BlackRock Liquidity Fund - Direct Plan - Daily Dividend
+119125;DSP BlackRock Liquidity Fund - Direct Plan - Growth
+119123;DSP BlackRock Liquidity Fund - Direct Plan - Weekly Dividend
+130489;BNP PARIBAS OVERNIGNT FUND - DIRECT PLAN - MONTHLY DIVIDEND OPTION
+130486;BNP PARIBAS OVERNIGHT FUND - DIRECT PLAN -- DAILY DIVIDEND OPTION
+130487;BNP PARIBAS OVERNIGHT FUND -- DIRECT PLAN - WEEKLY DIVIDEND OPTION
+112457;L&T Liquid Fund -Regular Plan - Growth
+130021;SBI Dual Advantage Fund - Series III - Regular Plan - Growth
+140238;Edelweiss Tax Advantage Fund - Regular Plan - Growth Option
+140239;Edelweiss Tax Advantage Fund - Regular Plan - Dividend Option
+135508;SBI EQUITY OPPORTUNITIES FUND - SERIES IV - REGULAR PLAN - DIVIDEND
+135509;SBI EQUITY OPPORTUNITIES FUND - SERIES IV - DIRECT PLAN - DIVIDEND
+130459;BNP PARIBAS OVERNIGNT FUND - REGULAR PLAN - GROWTH OPTION
+134671;SBI DEBT FUND SERIES B - 17 (1100 DAYS) - DIRECT PLAN - DIVIDEND
+134670;SBI DEBT FUND SERIES B - 17 (1100 DAYS) - DIRECT PLAN - GROWTH
+140349;Edelweiss Equity Savings Advantage Fund - Regular Plan - Dividend Option
+118862;Mirae Asset Cash Management Fund - Direct Plan - Weekly Dividend
+118860;Mirae Asset Cash Management Fund - Direct Plan - Monthly Dividend
+118861;Mirae Asset Cash Management Fund - Direct Plan - Daily Dividend
+102007;UTI-  Liquid Fund-Cash Plan-Regular Plan Periodic Dividend Option
+115402;Union Liquid Fund - Weekly Dividend Option
+115401;Union Liquid Fund - Daily Dividend Option
+115400;Union Liquid Fund - Monthly Dividend Option
+129924;L&T Liquid Fund -Regular Plan - Bonus
+140003;SUNDARAM MONEY FUND - UNCLAIMED AMOUNT PLAN - UNCLAIMED REDEMPTION LESS THAN THREE YEARS
+140005;SUNDARAM MONEY FUND - UNCLAIMED AMOUNT PLAN - UNCLAIMED DIVIDEND MORE THAN THREE YEARS
+140004;SUNDARAM MONEY FUND - UNCLAIMED AMOUNT PLAN - UNCLAIMED REDEMPTION MORE THAN THREE YEARS
+140006;SUNDARAM MONEY FUND - UNCLAIMED AMOUNT PLAN - UNCLAIMED DIVIDEND LESS THAN THREE YEARS
+136548;SBI DEBT FUND SERIES B - 35 (1131 DAYS) - DIRECT PLAN - GROWTH
+139434;ICICI Prudential Liquid Plan - Unclaimed Dividend
+139433;ICICI Prudential Liquid Plan - Unclaimed Redemption
+100641;SBI MAGNUM INSTA CASH FUND - REGULAR PLAN - GROWTH
+140913;UTI - Liquid Fund - Cash Plan - Instn Fortnightly Div Option - Direct
+125129;Baroda Pioneer Liquid Fund - Plan B (Direct) - Bonus Option
+140068;UTI Capital Protection Oriented Scheme Series VIII-IV (1996 Days) - Direct Plan - Growth Option
+122786;Invesco India Liquid Fund - Bonus Option
+109349;Canara Robeco Liquid-Regular Plan-Daily Div Reinvest.
+119163;Essel Liquid Fund-Direct Plan-Dividend Option-Daily
+114297;SBI MAGNUM INSTA CASH FUND - LIQUID FLOATER - REGULAR PLAN -DAILY DIVIDEND
+130600;SBI DEBT FUND SERIES A - 36 (36 Months) REGULAR PLAN - DIVIDEND
+130601;SBI DEBT FUND SERIES A - 36 (36 Months) DIRECT PLAN - GROWTH
+130602;SBI DEBT FUND SERIES A - 36 (36 Months) REGULAR PLAN - GROWTH
+130603;JM Arbitrage Advantage Fund - Bonus Option - Principal Units
+130604;JM Arbitrage Advantage Fund (Direct) - Bonus Option - Principal Units
+103344;ICICI Prudential Liquid Plan - Institutional Option - I
+139603;DHFL Pramerica Insta Cash Plus Fund - Unclaimed Dividend Plan - Below 3 years
+139602;DHFL Pramerica Insta Cash Plus Fund - Unlcaimed Redemption Plan - Below 3 years
+139605;DHFL Pramerica Insta Cash Plus Fund - Unclamied Dividend Plan - Above 3 years
+139604;DHFL Pramerica Insta Cash Plus Fund - Unclaimed Redemption Plan - Above 3 years
+139971;IDBI Prudence Fund Growth Direct
+139970;IDBI Prudence Fund Dividend Regular
+139972;IDBI Prudence Fund Dividend Direct
+127339;SBI DEBT FUND SERIES A - 4 REGULAR PLAN - GROWTH
+127337;SBI DEBT FUND SERIES A - 4 DIRECT - GROWTH
+140029;ICICI Prudential Value Fund - Series 9 - Cumulative Option
+140024;UTI - Liquid Fund - Cash Plan - Instn Quarterly Div Option - Direct
+100623;Sundaram Money Fund- Retail Monthly Div. Reinvst
+100622;Sundaram Money Fund- Retail Fortnightly Div Reinvst
+119414;BARODA PIONEER LIQUID FUND - PLAN B (DIRECT) - DAILY DIVIDEND OPTION
+119415;BARODA PIONEER LIQUID FUND - PLAN B (DIRECT) - GROWTH OPTION
+119416;BARODA PIONEER LIQUID FUND - PLAN B (DIRECT) - WEEKLY DIVIDEND OPTION
+113102;IDBI Liquid Fund-Daily Dividend
+113103;IDBI Liquid Fund-Weekly Dividend
+113104;IDBI Liquid Fund- Monthly Dividend
+133717;SBI DUAL ADVANTAGE FUND - SERIES VII - DIRECT PLAN - DIVIDEND
+133716;SBI DUAL ADVANTAGE FUND - SERIES VII - DIRECT PLAN - GROWTH
+133715;SBI DUAL ADVANTAGE FUND - SERIES VII - REGULAR PLAN - DIVIDEND
+133718;SBI DUAL ADVANTAGE FUND - SERIES VII - REGULAR PLAN - GROWTH
+100218;JM Equity Fund-Dividend
+119250;DSP BlackRock Top 100 Equity Fund - Direct Plan - Growth
+133973;UTI - Liquid Fund - Cash Plan - Instn Annual Div Option
+133195;SBI DEBT FUND SERIES B - 4 (1111 DAYS) - REGULAR PLAN - GROWTH
+130445;SBI DEBT FUND SERIES A - 35 (369 DAYS) DIRECT PLAN - GROWTH
+130442;SBI DEBT FUND SERIES A - 35 (369 DAYS) REGULAR PLAN - GROWTH
+118618;Reliance Liquid Fund - Cash Plan - Direct Plan Daily Dividend Reinvestment Option
+101748;ICICI Prudential Liquid Plan - Institutional - Daily - Div
+118611;Reliance Liquid Fund - Cash Plan - Direct Plan Weekly Dividend Reinvestment Option
+118610;Reliance Liquid Fund - Cash Plan - Direct Plan - Growth Plan - Growth Option
+118612;Reliance Liquid Fund - Cash Plan - Direct Plan Quarterly Dividend Plan
+140761;SBI DEBT FUND SERIES B - 49 (1170 DAYS) - DIRECT PLAN - GROWTH
+135902;SBI DEBT FUND SERIES B - 29 (1200 DAYS) - REGULAR PLAN - GROWTH
+135903;SBI DEBT FUND SERIES B - 29 (1200 DAYS) - REGULAR PLAN - DIVIDEND
+135904;SBI DEBT FUND SERIES B - 29 (1200 DAYS) - DIRECT PLAN - DIVIDEND
+135905;SBI DEBT FUND SERIES B - 29 (1200 DAYS) - DIRECT PLAN - GROWTH
+136434;SBI DEBT FUND SERIES B - 33 (1131 DAYS) - REGULAR PLAN - DIVIDEND PAYOUT
+129443;SBI DEBT FUND SERIES A - 21 DIRECT PLAN - GROWTH
+133198;SBI DEBT FUND SERIES B - 4 (1111 DAYS) - DIRECT PLAN - GROWTH
+129444;SBI DEBT FUND SERIES A - 21 REGULAR PLAN - GROWTH
+135325;SBI DEBT FUND SERIES B - 25 (1100 DAYS) - REGULAR PLAN - GROWTH
+118449;IDBI Liquid Fund- Monthly Dividend Direct
+119790;L&T Liquid Fund - Direct Plan -Growth
+100357;ICICI Prudential Liquid -Quarterly Dividend
+100359;ICICI Prudential Liquid Institutional Plus Plan - Div - Daily
+140189;Edelweiss Liquid Fund - Regular Plan - Bonus Option
+133197;SBI DEBT FUND SERIES B - 4 (1111 DAYS) - REGULAR PLAN - DIVIDEND
+133196;SBI DEBT FUND SERIES B - 4 (1111 DAYS) - DIRECT PLAN - DIVIDEND
+134195;SBI DUAL ADVANTAGE FUND - SERIES VIII - REGULAR PLAN - GROWTH
+120196;ICICI Prudential Liquid - Direct Plan -  Quarterly Dividend
+114251;Reliance Liquid Fund-Cash Plan-Monthly Dividend Plan
+114252;Reliance Liquid Fund-Cash Plan-Quarterly Dividend Plan
+140733;SBI DEBT FUND SERIES B - 46 (1155 DAYS) - REGULAR PLAN - GROWTH
+134672;SBI DEBT FUND SERIES B - 17 (1100 DAYS) - REGULAR PLAN - GROWTH
