@@ -67,7 +67,6 @@ public class Manager {
 		double probability = 1 - risk;
 		for(String code: mutual_funds_map.keySet()) {
 			MutualFund mf = mutual_funds_map.get(code);
-			double desired_return = (double) (mf.mean * returns);
 			NormalDistribution dist = null;
 			try {
 				dist = new NormalDistribution(mf.mean,mf.std);
@@ -75,7 +74,7 @@ public class Manager {
 			catch(Exception e) {
 				continue;
 			}
-			double required_probability = 1 - dist.cumulativeProbability(desired_return);
+			double required_probability = 1 - dist.cumulativeProbability(returns);
 			if(required_probability >= probability) {
 				Portfolio p = new Portfolio();
 				p.mutual_funds.add(mf);

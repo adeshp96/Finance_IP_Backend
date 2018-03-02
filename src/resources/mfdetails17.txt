@@ -52,10 +52,6 @@
 101048;Franklin India Cash Management Account-Growth Plan
 130237;SBI DEBT FUND SERIES A - 31 (367 DAYS) REGULAR PLAN - GROWTH
 135153;SBI DUAL ADVANTAGE FUND - SERIES X - REGULAR PLAN - GROWTH
-140197;Edelweiss  Liquid Fund - Direct Plan - Monthly Dividend Option
-140196;Edelweiss Liquid Fund - Direct Plan - Growth Option
-140194;Edelweiss Liquid Fund - Direct Plan - Bonus Option
-140193;Edelweiss Liquid Fund - Direct Plan - Daily Dividend Option
 135156;SBI DUAL ADVANTAGE FUND - SERIES X - REGULAR PLAN - DIVIDEND
 118307;Canara Robeco Liquid-Direct Plan-Daily Dividend Reinvestment
 118306;Canara Robeco Liquid-Direct Plan-Monthly Dividend
@@ -239,9 +235,6 @@
 140172;Edelweiss Equity Opportunities Fund - Regular Plan - Growth Option
 140175;Edelweiss Equity Opportunities Fund - Direct Plan - Growth Option
 140174;Edelweiss Equity Opportunities Fund - Direct Plan - Dividend Option
-140177;Edelweiss Liquid Fund - Retail Plan - Daily Dividend Option
-140176;Edelweiss Liquid Fund - Retail Plan - Growth Option
-140178;Edelweiss Liquid Fund - Retail Plan - Weekly Dividend Option
 132992;SBI DEBT FUND SERIES B - 3 (1111 DAYS) - REGULAR PLAN - GROWTH
 132993;SBI DEBT FUND SERIES B - 3 (1111 DAYS) - REGULAR PLAN - DIVIDEND
 139541;Mahindra Liquid Fund - Regular Plan - Weekly Dividend Reinvestment
@@ -254,9 +247,6 @@
 118901;HSBC Cash Fund - Daily Dividend
 118903;HSBC Cash Fund - Monthly Dividend
 118902;HSBC Cash Fund -  Growth
-140180;Edelweiss Liquid Fund - Retail Plan - Monthly Dividend Option
-140181;Edelweiss Liquid Fund - Regular Plan - Daily Dividend Option
-140188;Edelweiss Liquid Fund - Regular Plan - Annual Dividend Option
 140031;ICICI Prudential Value Fund - Series 9 - Direct Plan - Cumulative Option
 119692;Sundaram Money Fund - Direct Plan - Fortnightly Dividend Reinvestment Option
 119690;Sundaram Money Fund - Direct Plan - Bonus Option
@@ -559,9 +549,6 @@
 131468;SBI DEBT FUND SERIES A - 44 (1111 DAYS) - DIRECT PLAN - DIVIDEND
 131467;SBI DEBT FUND SERIES A - 44 (1111 DAYS) - REGULAR PLAN - DIVIDEND
 111550;Quantum Tax Saving Fund - Direct Plan Dividend Option
-140182;Edelweiss Liquid Fund - Regular Plan - Growth Option
-140183;Edelweiss Liquid Fund - Regular Plan - Monthly Dividend Option
-140185;Edelweiss Liquid Fund - Regular Plan - Weekly Dividend Option
 120898;SBI DEBT FUND SERIES - 60 MONTHS - 3 - REGULAR PLAN - GROWTH
 120899;SBI DEBT FUND SERIES - 60 MONTHS - 3 - REGULAR PLAN - DIVIDEND
 113153;DSP BlackRock Micro Cap Fund - Regular - Dividend
@@ -989,7 +976,6 @@
 119790;L&T Liquid Fund - Direct Plan -Growth
 100357;ICICI Prudential Liquid -Quarterly Dividend
 100359;ICICI Prudential Liquid Institutional Plus Plan - Div - Daily
-140189;Edelweiss Liquid Fund - Regular Plan - Bonus Option
 133197;SBI DEBT FUND SERIES B - 4 (1111 DAYS) - REGULAR PLAN - DIVIDEND
 133196;SBI DEBT FUND SERIES B - 4 (1111 DAYS) - DIRECT PLAN - DIVIDEND
 134195;SBI DUAL ADVANTAGE FUND - SERIES VIII - REGULAR PLAN - GROWTH

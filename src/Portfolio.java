@@ -5,7 +5,7 @@ public class Portfolio {
 
 	@Override
 	public String toString() {
-		return "Portfolio [mutual_funds=" + mutual_funds + "]";
+		return "Portfolio [mutual_funds=" + mutual_funds + "]\n";
 	}
 	
 }

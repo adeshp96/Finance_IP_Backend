@@ -17,7 +17,7 @@ public class MutualFund {
 	}
 	@Override
 	public String toString() {
-		return "MutualFund [code=" + code + ", name=" + name + ", mean=" + mean + ", std=" + std + "]\n";
+		return "MutualFund [code=" + code + ", name=" + name + ", mean=" + mean + ", std=" + std + "]";
 	}
 
 	
