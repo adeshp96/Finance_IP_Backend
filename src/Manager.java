@@ -3,6 +3,7 @@ import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.Map;
 import java.util.TreeMap;
 
@@ -123,6 +124,7 @@ public class Manager {
 				output.add(p);
 			}
 		}
+		output.sort(new Portfolio());
 		return output;
 	}
 }
