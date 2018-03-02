@@ -1,11 +1,15 @@
 import java.util.ArrayList;
 
 public class Portfolio {
-	ArrayList <MutualFund> mutual_funds = new ArrayList<MutualFund>();
-
+	ArrayList <Pair<MutualFund, Float> > mutual_funds = new ArrayList<Pair<MutualFund, Float>>();
+	Float returns, risk;
 	@Override
 	public String toString() {
-		return "Portfolio [mutual_funds=" + mutual_funds + "]\n";
+		String output = "\nReturn: " + returns + "; Risk: "+risk + "\n";
+		for (Pair<MutualFund, Float> e: mutual_funds) {
+			output += e.getL() + ": " + e.getR() + "; ";
+		}
+		return output;
 	}
 	
 }
